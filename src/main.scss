@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+@import "assets/style/container.scss";
+@import "assets/style/header.scss";
+@import "assets/style/images.scss";
