@@ -1,5 +1,3 @@
-# starwars
-
 ## Project setup
 ```
 npm install
